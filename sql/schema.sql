@@ -1,0 +1,21 @@
+CREATE TABLE real_estate_data (
+    Property_ID VARCHAR(20) PRIMARY KEY,
+    Micro_Market VARCHAR(100),
+    Project_Name VARCHAR(100),
+    Developer_Name VARCHAR(100),
+    Unit_Size_Sqft FLOAT,
+    Ticket_Price_Cr FLOAT,
+    Transaction_Type VARCHAR(20),
+    Possession_Status VARCHAR(50),
+    Sales_Channel VARCHAR(50),
+    NRI_Buyer VARCHAR(10),
+    Amenity_Score FLOAT,
+    Connectivity_Score FLOAT,
+    Locality_Infra_Score FLOAT,
+    Avg_Traffic_Time_Min FLOAT,
+    Purchase_Quarter VARCHAR(10),
+    Quarter_Number INT,
+    BHK INT,
+    Price_per_Sqft FLOAT,
+    Booking_Status VARCHAR(20)
+);
