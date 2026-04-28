@@ -144,3 +144,10 @@ This dashboard helps:
 Database credentials are handled securely using environment variables and are not included in this repository.
 
 ---
+
+### 👨‍💻 Author
+
+Gokulraj V -
+AI & ML Enthusiast
+
+---
